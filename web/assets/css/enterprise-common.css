@@ -1046,7 +1046,7 @@ img#pro-image-place{
 .table-ope-icon a:nth-child(4){
   background: rgb(153,108,179);
 }
-.case_list-list-body>button{
+.case_list-list-body > button{
   margin: 12px;
   font-size: 16px;
   color: white;

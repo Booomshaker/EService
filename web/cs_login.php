@@ -44,7 +44,7 @@
 		</div>
 	</body>
 	<script type="text/javascript">
-		function changeCaptcha() {
+		function changeCaptcha(){
 			document.getElementById('CaptchaImage').src='functions/generate_captcha.php?tm='+Math.random();
 		}
 
